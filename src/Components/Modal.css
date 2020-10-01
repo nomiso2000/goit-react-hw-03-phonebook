@@ -1,0 +1,12 @@
+.Backdrop {
+  background-color: grey;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Modal {
+  background-color: white;
+  height: 200px;
+  width: 200px;
+}
